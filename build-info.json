@@ -1,0 +1,114 @@
+{
+  "schema": "zeus.build-info/v1",
+  "products": [
+    "native-lab",
+    "webc-studio"
+  ],
+  "coreCommit": "69f494f270c8fb501b34759dc22d2a9de7aee951",
+  "uiCommit": "69f494f270c8fb501b34759dc22d2a9de7aee951",
+  "version": "0.1.1-beta.20",
+  "builtAt": "2026-11-14T06:54:39Z",
+  "artifactDigest": "sha256:45fbd1d4c1889d9ae2dd611d612535b53158344c43a0673d9c1765126f45e5f3",
+  "files": [
+    {
+      "path": "assets/babel-BNS_LnEj.js",
+      "sha256": "96992214ffdbaffd7323bbdf6726650a01148a3d6e80467280c9fafd39803e53",
+      "bytes": 2207205
+    },
+    {
+      "path": "assets/browser-BvGt_LFQ.js",
+      "sha256": "0e7ca8a9ec75e6fc072fd64c91fc6b8c2931dba4a0e2e5e4bf709eeea04a9bdb",
+      "bytes": 8769
+    },
+    {
+      "path": "assets/code-editor-impl-DluZGpVt.js",
+      "sha256": "c02620de9ee0a6522e864d69dfcdafc6a7b94f8051071aab1fd0930c6d13d2db",
+      "bytes": 92155
+    },
+    {
+      "path": "assets/dist-s2YT2TF6.js",
+      "sha256": "52a5607f5268e8ffefb671bd4f39c99b7d7abbd7c98f34d2e015ee87a29af785",
+      "bytes": 446757
+    },
+    {
+      "path": "assets/highlight-Dnf__d43.js",
+      "sha256": "6166f5998ee2414349cdc96bf64ad0d8a1732814e33b5610a92063df90a882d7",
+      "bytes": 1482
+    },
+    {
+      "path": "assets/host-AbRkyjB6.js",
+      "sha256": "49a4f46d11e1728f7640013549ce1ed2db9de3cf532c3cd37206d0c41572520f",
+      "bytes": 1878
+    },
+    {
+      "path": "assets/main-CuwJKVTp.css",
+      "sha256": "fc0b6225db04cc567240f768c7ed7106516c71f8f43d7451491d9309cc981521",
+      "bytes": 19139
+    },
+    {
+      "path": "assets/main-DTiiYbkp.js",
+      "sha256": "f03fa5b69377f758291948c1d18332374f5e7e44d4bb44d273f7741f753ca03d",
+      "bytes": 138854
+    },
+    {
+      "path": "assets/playground-engine.esm-bundler-B38eSwsZ.js",
+      "sha256": "8dd9984569f2621b9ecd447f36f956f2cb6f0390a184dc663130a57737f9ac93",
+      "bytes": 455911
+    },
+    {
+      "path": "assets/rolldown-runtime-XKyaHtl9.js",
+      "sha256": "548d1dbf321e7d2ae804fcc158b588706a7c52f8ca175de1490c6ccb4dbe55b7",
+      "bytes": 726
+    },
+    {
+      "path": "assets/runtime-dom.esm-bundler-B0iv1fEe.js",
+      "sha256": "8dbc8888f99361479de5be08630b1fba110f1aa002b80a81c678620f273a2276",
+      "bytes": 84082
+    },
+    {
+      "path": "assets/sandbox-w3MNrVap.js",
+      "sha256": "76c4f57aaf73347cf41aadcabcbb0be2d63efb0c3e39c43d60eac94e67954ccf",
+      "bytes": 108203
+    },
+    {
+      "path": "assets/vendor-react-dVMUs3E3.js",
+      "sha256": "8d984000b11bf1512653354f265310df3488ddda196a7638d4b0f12205e6dd37",
+      "bytes": 189158
+    },
+    {
+      "path": "assets/vendor-vue-Bf-OD3Hn.js",
+      "sha256": "afbfa4dec7a216111eac9cd62b6e62d58e126faac53f9cababb07daf323485f2",
+      "bytes": 62816
+    },
+    {
+      "path": "assets/worker-CCObZ3_g.js",
+      "sha256": "7cf65acf3244a37e6052e58d69b15419ace90ada63f4d8227f74529f05a0e64d",
+      "bytes": 1369
+    },
+    {
+      "path": "assets/zeus-compiler-DRgdz7FS.wasm",
+      "sha256": "5401f6113e6bb7116689ff72dbcfd99230edc10940e4c8b69d8ddb20e721114b",
+      "bytes": 1562644
+    },
+    {
+      "path": "host.html",
+      "sha256": "5e8bbd2a60aec90d702ece68d1145ff7eef981d4675c125cf7f8ef27bf2e324b",
+      "bytes": 789
+    },
+    {
+      "path": "index.html",
+      "sha256": "820389e17f8f719630b2991b9677ef2780c9909c07ae870f5dfac988c6d35fcd",
+      "bytes": 1715
+    },
+    {
+      "path": "sandbox.html",
+      "sha256": "5608d68374baaf0afa02b792bee3a41ae6921be8d0f15ff50f2661368e0830fc",
+      "bytes": 1207
+    },
+    {
+      "path": "webc.html",
+      "sha256": "a24c48b4af3e97b250464f686ab266594be1ed742cca1c5f6fb51af0212ab555",
+      "bytes": 1711
+    }
+  ]
+}
